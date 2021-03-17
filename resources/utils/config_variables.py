@@ -1,0 +1,7 @@
+PROJECT_ID = "daitan-gamification-dev"
+REMOTE_URL = "http://127.0.0.1:4723/wd/hub"
+PLATFORM_NAME = "Android"
+PLATFORM_VERSION = "8"
+DEVICE_NAME = "emulator-5554"
+APP = "ctAppium/CTAppium_1_2.apk"
+AUTOMATION_NAME = "uiautomator2"
